@@ -97,7 +97,7 @@ python -m sls.cli demo --input samples/leads_input.csv
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/secure-lead-sync.git
+git clone https://github.com/jirisach/secure-lead-sync.git
 cd secure-lead-sync
 ```
 
