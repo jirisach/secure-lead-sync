@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue)
 ![CLI](https://img.shields.io/badge/interface-CLI-black)
-![Tests](https://img.shields.io/badge/tests-pytest-green)
+[![CI](https://github.com/jirisach/secure-lead-sync/actions/workflows/ci.yml/badge.svg)](https://github.com/jirisach/secure-lead-sync/actions/workflows/ci.yml)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 **Plan before you sync.**
