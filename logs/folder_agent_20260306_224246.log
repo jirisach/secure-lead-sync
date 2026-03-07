@@ -1,0 +1,8 @@
+=== APPLY (D:\projekty\secure-lead-sync) ===
+SKIP   DIR  D:\projekty\secure-lead-sync\tests
+SKIP   FILE D:\projekty\secure-lead-sync\tests\test_normalize.py
+SKIP   FILE D:\projekty\secure-lead-sync\tests\test_plan.py
+CREATE FILE D:\projekty\secure-lead-sync\tests\test_retry.py
+CREATE FILE D:\projekty\secure-lead-sync\tests\test_advisor.py
+CREATE FILE D:\projekty\secure-lead-sync\tests\test_doctor.py
+=== DONE ===

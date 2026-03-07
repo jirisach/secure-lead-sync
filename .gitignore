@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+data/logs/
+data/state/
+data/mock_crm/
+
+dist/
+build/
+*.egg-info/

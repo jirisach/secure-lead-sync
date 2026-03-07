@@ -1,0 +1,8 @@
+=== PLAN (D:\projekty\secure-lead-sync) ===
+EXISTS                   DIR  D:\projekty\secure-lead-sync\tests
+EXISTS                   FILE D:\projekty\secure-lead-sync\tests\test_normalize.py
+EXISTS                   FILE D:\projekty\secure-lead-sync\tests\test_plan.py
+WILL_CREATE_FILE         FILE D:\projekty\secure-lead-sync\tests\test_retry.py
+WILL_CREATE_FILE         FILE D:\projekty\secure-lead-sync\tests\test_advisor.py
+WILL_CREATE_FILE         FILE D:\projekty\secure-lead-sync\tests\test_doctor.py
+=== END PLAN ===

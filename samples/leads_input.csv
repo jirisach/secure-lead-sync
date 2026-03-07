@@ -1,0 +1,11 @@
+external_id,email,phone,first_name,last_name,company,source,status
+web-0001,jan.novak@example.com,420777123456,Jan,Novák,NovakTech,web_form,new
+web-0002,j.novak@example.com,420777123456,Jan,Novak,NovakTech,fb_ads,new
+web-0003,,14155550101,Anna,Lee,Acme Inc,referral,qualified
+web-0004,petra.svobodova@example.com,,Petra,Svobodová,,web_form,new
+web-0005,adam.kral@example.com,420777999111,Adam,Král,Král Systems,web_form,new
+web-0006,info@acme.com,14155550101,Support,Team,Acme Inc,import,qualified
+web-0007,lucie.nova@example.com,420777222333,Lucie,Nová,DesignLab,web_form,new
+web-0008,marek.dvorak@example.com,420777444555,Marek,Dvořák,Dvorak Media,fb_ads,new
+web-0009,jan.novak@example.com,420777123456,Jan,Novák,NovakTech,import,qualified
+web-0010,,420777888777,Tomáš,Urban,UrbanSoft,referral,new
